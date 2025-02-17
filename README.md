@@ -1,0 +1,1 @@
+various scripts and stuff for setting up a new macbook
